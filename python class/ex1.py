@@ -27,7 +27,7 @@ if __name__ == "__main__":
     classtest1.hello(1)
     classtest1.hello(' ,world')
     print "classtest.__module__: " + str(dir(classtest))  #vue the method and attribute in dir()
-    print "classtest.__init__  : " + str(classtest.__init__)
+    print "classtest.__init__  : " + str(classtest.__init__)git
     print "classtest.__doc__   : " + str(classtest.__doc__)
     # print "classtest.__name__  : " + str(classtest.__name__)
     print "classtest.__module__: " + str(classtest.__module__)
